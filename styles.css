@@ -1,0 +1,9 @@
+.flexy {
+    display:flex;
+    justify-content: space-around;
+}
+
+.para{
+    align-self:center;
+}
+
